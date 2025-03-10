@@ -1,0 +1,92 @@
+body {
+    background-color: #faf1f1;
+}
+.container{
+    background-color:#faf1f1;
+    font-family: Helvetica,Arial, sans-serif;
+    position:fixed ;
+    
+
+}
+p {
+    text-align: center;
+}
+.page {
+    background-color: #ffffff;
+    border: 1px rgb(194, 188, 188) solid;
+    border-radius: 10px;
+    width: 450px;
+    margin-left: 50px;
+    margin-top: ;
+
+}
+.facebook {
+    color:rgb(24, 119, 242) ;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-size:45px;
+}
+.login-to-facebook {
+    font-size:18px ;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+input {
+    width: 400px;
+    height: 48px;
+    margin-left: 15px;
+    padding-left: 15px;
+    font-size: 17px;
+    color:black;
+    margin-bottom: 12px;
+    border: 1px rgb(173, 173, 173) solid;
+    border-radius: 7px;
+}
+
+.login-button {
+    width: 417px;
+    height: 48px;
+    margin-left:15px;
+    text-align: center;
+    color: white;
+    background-color:rgb(24, 119, 242);
+    border: none;
+    border-radius: 7px;
+    font-size:20px;
+    font-weight: 700;
+    opacity:0.9;
+    
+
+}
+.login-button:hover {
+    opacity:1;
+    transition:0.15s;
+}
+.forgotten-button {
+    margin-top: 20px;
+    color:rgb(24, 119, 242);
+    border: none;
+    background-color: #ffffff;
+    margin-left: 170px;
+    font-weight: 500;
+
+}
+.create-button {
+    background-color:rgb(66, 183, 42) ;
+    height: 48px;
+    border: none;
+    font-size:17px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: 600;
+    color: white;
+    border-radius:5px;
+    text-align: center;
+    margin-left: 135px;
+    margin-bottom: 15px;
+    opacity: 0.9;
+
+}
+.create-button:hover {
+    opacity:
+}
